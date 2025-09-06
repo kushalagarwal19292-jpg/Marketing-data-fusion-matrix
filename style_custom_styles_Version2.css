@@ -1,0 +1,14 @@
+body {
+    background: #f5f8fd;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.sidebar .sidebar-content {
+    background: #1a6fd3;
+    color: #fff;
+}
+.stButton>button {
+    background-color: #ff9100;
+    border-radius: 8px;
+    color: #fff;
+    box-shadow: 0 2px 6px #eee;
+}
